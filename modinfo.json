@@ -1,9 +1,9 @@
 {
   "modID": "bettersavemenu",
   "name": "Better Save Menu",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "tomster12",
-  "fluxloaderVersion": "^2.2.6",
+  "fluxloaderVersion": "^2.2.7",
   "shortDescription": "",
   "description": "",
   "dependencies": {},

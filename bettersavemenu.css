@@ -1,50 +1,50 @@
-.bettermenu-menu-wrapper {
+.bsm-menu-wrapper {
     width: 50vw;
     height: 90vh;
     background-color: black;
     min-width: 800px;
 }
 
-.bettermenu-menu-content {
+.bsm-menu-content {
     display: flex;
     flex-direction: column;
 }
 
-.bettermenu-save-list {
+.bsm-save-list {
     flex: 1;
     max-height: none !important;
 }
 
-.bettermenu-save {
+.bsm-save {
     padding: 0.2rem 0 0.2rem 0.5rem !important;
     margin: 0.2rem !important;
 }
 
-.bettermenu-save-inner {
+.bsm-save-inner {
     align-items: center !important;
 }
 
-.bettermenu-save-select {
+.bsm-save-select {
     margin: 0 !important;
 }
 
-.bettermenu-save-name {
+.bsm-save-name {
     margin: 0 !important;
 }
 
-.bettermenu-save-info-row-1 {
+.bsm-save-info-row-1 {
     flex-direction: row !important;
     gap: 1rem;
     justify-content: space-between;
     padding-right: 1rem;
 }
 
-.bettermenu-save-info-row-2 {
+.bsm-save-info-row-2 {
     display: flex;
     flex-direction: row;
     gap: 1rem;
 }
 
-.bettermenu-save-info-item {
+.bsm-save-info-item {
     margin: 0 !important;
 }
