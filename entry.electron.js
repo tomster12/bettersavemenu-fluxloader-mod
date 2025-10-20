@@ -1,5 +1,4 @@
-
-const styleFilePath = path.join(modPath, "bettersavemenu.css");
+const styleFilePath = path.join(fluxloaderAPI.getModsPath(), "bettersavemenu", "bettersavemenu.css");
 
 log("info", "bettermenu", `Including css from path: ${styleFilePath}`);
 

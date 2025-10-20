@@ -3,7 +3,7 @@
   "name": "Better Save Menu",
   "version": "1.0.0",
   "author": "tomster12",
-  "fluxloaderVersion": "^2.2.7",
+  "fluxloaderVersion": "^2.2.6",
   "shortDescription": "",
   "description": "",
   "dependencies": {},

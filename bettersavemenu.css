@@ -1,7 +1,8 @@
 .bettermenu-menu-wrapper {
-    width: 45vw;
+    width: 50vw;
     height: 90vh;
     background-color: black;
+    min-width: 800px;
 }
 
 .bettermenu-menu-content {
