@@ -1,5 +1,5 @@
 
-const styleFilePath = path.join(modPath, "bettermenu.css");
+const styleFilePath = path.join(modPath, "bettersavemenu.css");
 
 log("info", "bettermenu", `Including css from path: ${styleFilePath}`);
 
