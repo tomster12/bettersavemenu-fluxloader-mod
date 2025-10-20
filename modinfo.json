@@ -1,0 +1,12 @@
+{
+  "modID": "bettermenu",
+  "name": "Better Menu",
+  "version": "1.0.0",
+  "author": "tomster12",
+  "fluxloaderVersion": "^2.2.7",
+  "shortDescription": "",
+  "description": "",
+  "dependencies": {},
+  "tags": [],
+  "electronEntrypoint": "entry.electron.js"
+}
